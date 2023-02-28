@@ -293,9 +293,7 @@
 
                 <div class="section-title">
                     <h2>F.A.Q</h2>
-                    <h3>Frequently Asked <span>Questions</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas
-                        atque vitae autem.</p>
+                    <h3><span>Perguntas </span>frequentes</h3>
                 </div>
 
                 <div class="row justify-content-center">
@@ -303,91 +301,67 @@
                         <ul class="faq-list">
 
                             <li>
-                                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non
-                                    consectetur a erat nam at lectus urna duis? <i
+                                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
+                                    Qual e o ramo de actuacao da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus
-                                        laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
-                                        rhoncus dolor purus non.
+                                      A empresa actua no ramo de consultoria e prestacao de servicos.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat
-                                    scelerisque varius morbi enim nunc faucibus a pellentesque? <i
+                                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">
+                                  Qual e area geografica de actuacao da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                                    </p>
+                                      A sede da empresa encontra-se na Província de Sofala, Cidade da Beira, Bairro de Matacuane, com
+                                      representações nacional (província de Cabo-Delgado, cidade de Pemba, Bairro de Natite, Q16 e na
+                                      cidade de Maputo, Bairro do Alto-Mãe) e internacional (Portugal - Cidade de Porto; Brasil - Cidade da
+                                      Bahia e Argentina - Buenos Aires, Santa-Sé).
+                                      
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit
-                                    amet consectetur adipiscing elit pellentesque habitant morbi? <i
+                                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Quais sao os
+                                  principais concorrentes? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci.
-                                        Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl
-                                        suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis
-                                        convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                        Concorrentes sao dificeis de identificar, mais todas as empresas que prestam servicos de consultoria
+                                        sao os nossos principais concorrentes.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio
-                                    tempor orci dapibus. Aliquam eleifend mi in nulla? <i
+                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Quais sao os principais
+                                  desafios do sector? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
-                                    <p>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                    <p> 
+                                      O maior desafio do sector tem haver com a rentabilidade da empresa e da partilha de informacao
+                                      sobre os servicos e a qualidade de servicos que prestamos.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Tempus quam
-                                    pellentesque nec nam aliquam sem et tortor consequat? <i
+                                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">
+                                  O que motivou a criacao das frases do slogan? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim
-                                        suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan.
-                                        Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit
-                                        turpis cursus in
-                                    </p>
-                                </div>
-                            </li>
-
-                            <li>
-                                <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Tortor vitae
-                                    purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i
-                                        class="bi bi-chevron-down icon-show"></i><i
-                                        class="bi bi-chevron-up icon-close"></i></div>
-                                <div id="faq6" class="collapse" data-bs-parent=".faq-list">
-                                    <p>
-                                        Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies
-                                        leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet.
-                                        Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu
-                                        scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla
-                                        phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                                        Preferimos transformar os nossos valores e coloca-los no slogan porque dignificam 
+                                        aos funcionarios e a empresa.
                                     </p>
                                 </div>
                             </li>
