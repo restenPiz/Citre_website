@@ -325,10 +325,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Services</h2>
-                    <h3>Check our <span>Services</span></h3>
-                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas
-                        atque vitae autem.</p>
+                    <h2>Serviços</h2>
+                    <h3>Veja os nossos <span>Serviços</span></h3>
                 </div>
 
                 <div class="row">
