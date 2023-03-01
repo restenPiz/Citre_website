@@ -72,8 +72,8 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container" data-aos="zoom-out" data-aos-delay="100">
-            <h1>Bem vindo a <span>CITRE</span></h1>
-            <h2>Somos uma Consultoria de Investigação e Treinamento</h2>
+            <h1 style="color:white">Bem vindo a <span>CITRE</span></h1>
+            <h2 style="color:white">Somos uma Consultoria de Investigação e Treinamento</h2>
             <div class="d-flex">
                 <a href="#about" class="btn-get-started scrollto">Iniciar</a>
                 <!--<a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>-->
@@ -93,7 +93,7 @@
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4 class="title"><a href="">Missão</a></h4>
                             <p class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
-                                de negocios atraves de solucoes de consultoria personalizadas e
+                                de negocios atraves de soluções de consultoria personalizadas e
                                 eficazes, fornecendo servicos de alta qualidade e valor agregado.
                             </p>
                         </div>
@@ -104,8 +104,8 @@
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4 class="title"><a href="">Visão</a></h4>
                             <p class="description">Nossa visao e sermos reconhecidos como lideres no setor de
-                                consultoria e elaboracao de projectos, entregando
-                                servicos excepcionais e inovadoras que excedem as expectativas dos nossos clientes.
+                                consultoria e elaboração de projectos, entregando
+                                serviços excepcionais e inovadoras que excedem as expectativas dos nossos clientes.
                             </p>
                         </div>
                     </div>
@@ -114,9 +114,9 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4 class="title"><a href="">Inovacão</a></h4>
-                            <p class="description">Buscamos continuamente novas ideias e solucoes inovadoras para
+                            <p class="description">Buscamos continuamente novas ideias e soluções inovadoras para
                                 melhorar nossos servicos e atender as
-                                necessidades em constante evolucao dos nossos clientes.
+                                necessidades em constante evolução dos nossos clientes.
                             </p>
                         </div>
                     </div>
@@ -125,8 +125,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4 class="title"><a href="">Integridade</a></h4>
-                            <p class="description">Mantemos os mais altos padroes de etica e integridade, agindo sempre
-                                com transparencia, honestidade e respeito.</p>
+                            <p class="description">Mantemos os mais altos padrões de etica e integridade, agindo sempre
+                                com transparência, honestidade e respeito.</p>
                         </div>
                     </div>
 
@@ -301,19 +301,19 @@
 
                             <li>
                                 <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
-                                    Qual e o ramo de actuacao da empresa? <i
+                                    Qual e o ramo de actuação da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                      A empresa actua no ramo de consultoria e prestacao de servicos.
+                                      A empresa actua no ramo de consultoria e prestação de serviços.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
                                 <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">
-                                  Qual e area geografica de actuacao da empresa? <i
+                                  Qual e area geografica de actuação da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
@@ -327,40 +327,40 @@
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Quais sao os
+                                <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Quais são os
                                   principais concorrentes? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Concorrentes sao dificeis de identificar, mais todas as empresas que prestam servicos de consultoria
-                                        sao os nossos principais concorrentes.
+                                        Concorrentes sao dificeis de identificar, mais todas as empresas que prestam serviços de consultoria
+                                        são os nossos principais concorrentes.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Quais sao os principais
+                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Quais são os principais
                                   desafios do sector? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
                                     <p> 
-                                      O maior desafio do sector tem haver com a rentabilidade da empresa e da partilha de informacao
-                                      sobre os servicos e a qualidade de servicos que prestamos.
+                                      O maior desafio do sector tem haver com a rentabilidade da empresa e da partilha de informação
+                                      sobre os serviços e a qualidade de serviços que prestamos.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
                                 <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">
-                                  O que motivou a criacao das frases do slogan? <i
+                                  O que motivou a criação das frases do slogan? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                                     <p>
                                         Preferimos transformar os nossos valores e coloca-los no slogan porque dignificam 
-                                        aos funcionarios e a empresa.
+                                        aos funcionários e a empresa.
                                     </p>
                                 </div>
                             </li>
@@ -378,14 +378,14 @@
 
                 <div class="section-title">
                     <h2>Contacto</h2>
-                    <h3><span>Contacte Nos</span></h3>
+                    <h3><span>Contacte-Nos</span></h3>
                 </div>
 
                 <div class="row" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-lg-6">
                         <div class="info-box mb-4">
                             <i class="bx bx-map"></i>
-                            <h3>Nosso Endereco</h3>
+                            <h3>Nosso Endereço</h3>
                             <p>Cidade da Beira, Bairro de Matacuane</p>
                         </div>
                     </div>
