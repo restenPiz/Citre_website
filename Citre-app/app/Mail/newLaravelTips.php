@@ -28,6 +28,11 @@ class newLaravelTips extends Mailable
      */
     public function build()
     {
-        return $this->view('view.name');
+        return $this
+        // ->from(config('mail.from.address'))
+        ->from('ajtomo@eliteteclda.com', $this->date['email'])
+        ->subject($this->date['assunto'])
+        ->view('elementos.message')
+        ->with('date', $this->date);
     }
 }
