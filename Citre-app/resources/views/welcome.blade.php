@@ -39,7 +39,7 @@
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope d-flex align-items-center"><a
                         href="mailto:contact@example.com">citre24@gmail.com</a></i>
-                <i class="bi bi-phone d-flex align-items-center ms-4"><span>+258 872612657 / +258 840320993</span></i>
+                <i class="bi bi-phone d-flex align-items-center ms-4"><span>+258 872612657</span></i>
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
                 <a href="https://web.facebook.com/profile.php?id=100076387305813" class="facebook"><i
@@ -197,7 +197,7 @@
                         data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h6 style="color:#a11f1b"><b>Elaboração de estudos</b></h6>
+                            <h6><b>Elaboração de estudos</b></h6>
                             <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                         </div>
                     </div>
@@ -313,11 +313,11 @@
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 1</h4>
                             <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -325,11 +325,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -337,11 +337,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 2</h4>
                             <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -349,11 +349,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 2</h4>
                             <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -361,11 +361,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 2</h4>
                             <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -373,11 +373,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>App 3</h4>
                             <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -385,11 +385,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 1</h4>
                             <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -397,11 +397,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Card 3</h4>
                             <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -409,11 +409,11 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Web 3</h4>
                             <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
+                            <a href="img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>

@@ -1,9 +1,3 @@
-/**
-* Template Name: BizLand - v3.10.0
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -263,7 +257,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color:  #2d4d69;
+  background-color:  #a11f1b;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -612,8 +606,8 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: #e7f1fd;
-  color:  #2d4d69;
+  background: #a11f1b;
+  color:  white;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
