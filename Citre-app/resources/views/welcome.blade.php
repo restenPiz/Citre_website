@@ -436,9 +436,9 @@
                                 <textarea class="form-control" name="message" rows="5" placeholder="Mensagem" required></textarea>
                             </div>
                             <div class="my-3">
-                                <div class="loading">Loading</div>
+                                <div class="loading">Processando</div>
                                 <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                                <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
                             </div>
                             <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
                         </form>
@@ -491,7 +491,6 @@
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                             <a href="https://web.facebook.com/profile.php?id=100076387305813" class="facebook"><i class="bx bxl-facebook"></i></a>
                             <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                             <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
@@ -502,14 +501,14 @@
 
         <div class="container py-4">
             <div class="copyright">
-                &copy; Copyright <strong><span>BizLand</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>CITRE. E,I</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
                 <!-- You can delete the links only if you purchased the pro version. -->
                 <!-- Licensing information: https://bootstrapmade.com/license/ -->
                 <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bizland-bootstrap-business-template/ -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by <a href="https://eliteteclda.com/">EliteTec, Lda</a>
             </div>
         </div>
     </footer><!-- End Footer -->
