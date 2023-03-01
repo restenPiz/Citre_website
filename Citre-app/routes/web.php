@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\systemController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,4 +19,4 @@ Route::get('/', function () {
 });
 
 //Inicio da rota de envio de email
-Route::get('teste', [TestesController::class, 'teste']);
+Route::get('sendEmail', [systemController::class, 'sendEmail'])->name('sendEmail');
