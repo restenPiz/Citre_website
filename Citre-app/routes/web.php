@@ -19,4 +19,4 @@ Route::get('/', function () {
 });
 
 //Inicio da rota de envio de email
-Route::get('sendEmail', [systemController::class, 'sendEmail'])->name('sendEmail');
+Route::post('sendEmail', [systemController::class, 'sendEmail'])->name('sendEmail');

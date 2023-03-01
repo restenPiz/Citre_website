@@ -417,7 +417,8 @@
                     </div>
 
                     <div class="col-lg-6">
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                        <form action="{{route('sendEmail')}}" method="post" role="form" class="php-email-form">
+                            @csrf
                             <div class="row">
                                 <div class="col form-group">
                                     <input type="text" name="nome" class="form-control" id="name"
@@ -440,7 +441,7 @@
                                 <div class="error-message"></div>
                                 <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
                             </div>
-                            <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
+                            <div class="text-center"><button type="submit" name="submit">Enviar Mensagem</button></div>
                         </form>
                     </div>
 
