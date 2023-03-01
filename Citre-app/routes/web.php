@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+//Inicio da rota de envio de email
+Route::get('teste', [TestesController::class, 'teste']);
