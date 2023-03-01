@@ -464,7 +464,7 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>CITRE,<span>.</span></h3>
+                        <h3>CI<span style="color:red">TRE</span>, E.I.</h3>
                         <p>
                             Bairro de Matacuane, <br>
                             Beira,<br>
