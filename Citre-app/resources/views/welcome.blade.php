@@ -466,8 +466,8 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h3>CITRE,<span>.</span></h3>
                         <p>
-                            Bairro de Matacuane <br>
-                            Beira<br>
+                            Bairro de Matacuane, <br>
+                            Beira,<br>
                             Moçambique <br><br>
                             <strong>Numero de telefone:</strong> +258872612657<br>
                             <strong>Email:</strong> citre24@gmail.com<br>
@@ -488,11 +488,11 @@
                         <h4>Nossas Redes sociais</h4>
                         <p>Pode acessar a uma das nossas redes sociais para se enteirar mais sobre as actividades da empresa</p>
                         <div class="social-links mt-3">
-                            {{--<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>--}}
-                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                            {{--<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>--}}
-                            {{--<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>--}}
-                            {{--<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>--}}
+                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="https://web.facebook.com/profile.php?id=100076387305813" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
 
