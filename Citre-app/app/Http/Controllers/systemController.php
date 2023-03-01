@@ -19,5 +19,7 @@ class systemController extends Controller
         );
 
         Mail::to(Request::input('email'))->send(new newLaravelTips($data));
+
+        return redirect()->back()->with('Sucess','Mensagem enviada com sucesso!');
     }
 }
