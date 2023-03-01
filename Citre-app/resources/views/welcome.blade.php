@@ -308,70 +308,73 @@
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="img/portfolio/a1.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <a href="img/portfolio/a1.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                        </div>
-                    </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="img/portfolio/a2.jpg" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img style="width:30rem" src="img/portfolio/a2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
+                            <h4>Recolha de dados</h4>
                             <a href="img/portfolio/a2.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="img/portfolio/a3.jpg" class="img-fluid" alt="">
+                        <img style="width:30rem" src="img/portfolio/a3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
+                            <h4>Visita a vila de munhinga</h4>
                             <a href="img/portfolio/a3.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <img src="img/portfolio/a4.jpg" class="img-fluid" alt="">
+                        <img style="width:30rem" src="img/portfolio/a4.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
+                            <h4>Visita</h4>
                             <a href="img/portfolio/a4.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <img src="img/portfolio/a5.jpg" class="img-fluid" alt="">
+                        <img style="width:30rem" src="img/portfolio/a5.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
+                            <h4>Secretaria da vila de munhinga</h4>
                             <a href="img/portfolio/a5.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
                            </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="img/portfolio/a6.jpg" class="img-fluid" alt="">
+                        <img style="width:30rem" src="img/portfolio/a6.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
+                            <h4>Visita ao distrito de Manica</h4>
                             <a href="img/portfolio/a6.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img style="width:30rem" src="img/portfolio/a7.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Cerimonia no hotel win</h4>
+                            <a href="img/portfolio/a7.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img style="width:30rem" src="img/portfolio/a8.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Palestra para os idosos</h4>
+                            <a href="img/portfolio/a8.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
                         </div>
                     </div>
                 </div>
 
             </div>
         </section><!-- End Portfolio Section -->
-
 
         <!-- ======= Frequently Asked Questions Section ======= -->
         <section id="faq" class="faq section-bg">
