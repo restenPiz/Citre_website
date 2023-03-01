@@ -52,7 +52,7 @@
     <header id="header" class="d-flex align-items-center">
         <div class="container d-flex align-items-center justify-content-between">
 
-            <h1 ><a href="/"><img class="" src="img/logo.png" style="width:25vh;"></a></h1>
+            <h1><a href="/"><img class="" src="img/logo.png" style="width:25vh;"></a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo"><img src="img/logo.png" alt=""></a>-->
 
@@ -154,7 +154,8 @@
                         <h3>Somos uma consultoria orientada pelos valores de Ética, Qualidade e Inovação.</h3>
                         <p class="fst-italic">
                             A empresa actua no ramo de consultoria a nivel nacional e com sua sede na provincia de
-                            sofala Cidade da Beira, Bairro de Matacuane. A <b>CITRE, E.I,</b> vem trabalhando na assessoria mutua para:
+                            sofala Cidade da Beira, Bairro de Matacuane. A <b>CITRE, E.I,</b> vem trabalhando na
+                            assessoria mutua para:
                         </p>
                         <ul>
                             <li>
@@ -182,41 +183,6 @@
             </div>
         </section><!-- End About Section -->
 
-        <!-- ======= Clients Section ======= -->
-        <section id="clients" class="clients section-bg">
-            <div class="container" data-aos="zoom-in">
-
-                <div class="row">
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-1.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-2.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-3.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-4.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-5.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="img/clients/client-6.png" class="img-fluid" alt="">
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Clients Section -->
-
         <!-- ======= Services Section ======= -->
         <section id="services" class="services">
             <div class="container" data-aos="fade-up">
@@ -231,7 +197,7 @@
                         data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h6><b>Elaboração de estudos</b></h6>
+                            <h6 style="color:#a11f1b"><b>Elaboração de estudos</b></h6>
                             <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                         </div>
                     </div>
@@ -286,6 +252,180 @@
             </div>
         </section><!-- End Services Section -->
 
+        <!-- ======= Clients Section ======= -->
+        <section id="clients" class="clients section-bg">
+            <div class="container" data-aos="zoom-in">
+
+                <div class="row">
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-1.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-2.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-3.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-4.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-5.png" class="img-fluid" alt="">
+                    </div>
+
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="img/clients/client-6.png" class="img-fluid" alt="">
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Clients Section -->
+
+
+        <!-- ======= Portfolio Section ======= -->
+        <section id="portfolio" class="portfolio">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Portfolio</h2>
+                    <h3>Check our <span>Portfolio</span></h3>
+                    <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas
+                        atque vitae autem.</p>
+                </div>
+
+                <div class="row" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                            <li data-filter="*" class="filter-active">All</li>
+                            <li data-filter=".filter-app">App</li>
+                            <li data-filter=".filter-card">Card</li>
+                            <li data-filter=".filter-web">Web</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 1</h4>
+                            <p>App</p>
+                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 3</h4>
+                            <p>Web</p>
+                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 2</h4>
+                            <p>App</p>
+                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 2</h4>
+                            <p>Card</p>
+                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 2</h4>
+                            <p>Web</p>
+                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>App 3</h4>
+                            <p>App</p>
+                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 1</h4>
+                            <p>Card</p>
+                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Card 3</h4>
+                            <p>Card</p>
+                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Web 3</h4>
+                            <p>Web</p>
+                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
+                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Portfolio Section -->
+
+
         <!-- ======= Frequently Asked Questions Section ======= -->
         <section id="faq" class="faq section-bg">
             <div class="container" data-aos="fade-up">
@@ -306,60 +446,65 @@
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                      A empresa actua no ramo de consultoria e prestação de serviços.
+                                        A empresa actua no ramo de consultoria e prestação de serviços.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
                                 <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">
-                                  Qual e area geografica de actuação da empresa? <i
+                                    Qual e area geografica de actuação da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                      A sede da empresa encontra-se na Província de Sofala, Cidade da Beira, Bairro de Matacuane, com
-                                      representações nacional (província de Cabo-Delgado, cidade de Pemba, Bairro de Natite, Q16 e na
-                                      cidade de Maputo, Bairro do Alto-Mãe) e internacional (Portugal - Cidade de Porto; Brasil - Cidade da
-                                      Bahia e Argentina - Buenos Aires, Santa-Sé).
-                                      
+                                        A sede da empresa encontra-se na Província de Sofala, Cidade da Beira, Bairro de
+                                        Matacuane, com
+                                        representações nacional (província de Cabo-Delgado, cidade de Pemba, Bairro de
+                                        Natite, Q16 e na
+                                        cidade de Maputo, Bairro do Alto-Mãe) e internacional (Portugal - Cidade de
+                                        Porto; Brasil - Cidade da
+                                        Bahia e Argentina - Buenos Aires, Santa-Sé).
+
                                 </div>
                             </li>
 
                             <li>
                                 <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Quais são os
-                                  principais concorrentes? <i
-                                        class="bi bi-chevron-down icon-show"></i><i
+                                    principais concorrentes? <i class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Concorrentes sao dificeis de identificar, mais todas as empresas que prestam serviços de consultoria
+                                        Concorrentes sao dificeis de identificar, mais todas as empresas que prestam
+                                        serviços de consultoria
                                         são os nossos principais concorrentes.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Quais são os principais
-                                  desafios do sector? <i
-                                        class="bi bi-chevron-down icon-show"></i><i
+                                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Quais são os
+                                    principais
+                                    desafios do sector? <i class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
-                                    <p> 
-                                      O maior desafio do sector tem haver com a rentabilidade da empresa e da partilha de informação
-                                      sobre os serviços e a qualidade de serviços que prestamos.
+                                    <p>
+                                        O maior desafio do sector tem haver com a rentabilidade da empresa e da partilha
+                                        de informação
+                                        sobre os serviços e a qualidade de serviços que prestamos.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
                                 <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">
-                                  O que motivou a criação das frases do slogan? <i
+                                    O que motivou a criação das frases do slogan? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                                     <p>
-                                        Preferimos transformar os nossos valores e coloca-los no slogan porque dignificam 
+                                        Preferimos transformar os nossos valores e coloca-los no slogan porque
+                                        dignificam
                                         aos funcionários e a empresa.
                                     </p>
                                 </div>
@@ -417,7 +562,8 @@
                     </div>
 
                     <div class="col-lg-6">
-                        <form action="{{route('sendEmail')}}" method="post" role="form" class="php-email-form">
+                        <form action="{{ route('sendEmail') }}" method="post" role="form"
+                            class="php-email-form">
                             @csrf
                             <div class="row">
                                 <div class="col form-group">
@@ -441,7 +587,8 @@
                                 <div class="error-message"></div>
                                 <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
                             </div>
-                            <div class="text-center"><button type="submit" name="submit">Enviar Mensagem</button></div>
+                            <div class="text-center"><button type="submit" name="submit">Enviar Mensagem</button>
+                            </div>
                         </form>
                     </div>
 
@@ -487,10 +634,12 @@
 
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Nossas Redes sociais</h4>
-                        <p>Pode acessar a uma das nossas redes sociais para se enteirar mais sobre as actividades da empresa</p>
+                        <p>Pode acessar a uma das nossas redes sociais para se enteirar mais sobre as actividades da
+                            empresa</p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                            <a href="https://web.facebook.com/profile.php?id=100076387305813" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="https://web.facebook.com/profile.php?id=100076387305813" class="facebook"><i
+                                    class="bx bxl-facebook"></i></a>
                             <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                             <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                         </div>
