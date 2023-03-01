@@ -72,7 +72,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container" data-aos="zoom-out" data-aos-delay="100">
-            <h1 style="color:white">Bem vindo a <span>CITRE</span></h1>
+            <h1 style="color:white">Bem vindo a <span style="color: #497daa">CITRE</span></h1>
             <h2 style="color:white">Somos uma Consultoria de Investigação e Treinamento</h2>
             <div class="d-flex">
                 <a href="#about" class="btn-get-started scrollto">Iniciar</a>
@@ -420,7 +420,7 @@
                         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                             <div class="row">
                                 <div class="col form-group">
-                                    <input type="text" name="name" class="form-control" id="name"
+                                    <input type="text" name="nome" class="form-control" id="name"
                                         placeholder="Seu Nome" required>
                                 </div>
                                 <div class="col form-group">
@@ -429,11 +429,11 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="subject" id="subject"
-                                    placeholder="Nome" required>
+                                <input type="text" class="form-control" name="apelido" id="subject"
+                                    placeholder="Seu Apelido" required>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Mensagem" required></textarea>
+                                <textarea class="form-control" name="mensagem" rows="5" placeholder="Mensagem" required></textarea>
                             </div>
                             <div class="my-3">
                                 <div class="loading">Processando</div>
