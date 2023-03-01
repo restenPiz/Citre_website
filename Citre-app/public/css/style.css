@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #106eea;
+  color: #2d4d69;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3b8af2;
+  color:  #2d4d69;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #106eea;
+  border: 6px solid  #2d4d69;
   border-top-color: #e2eefd;
   border-radius: 50%;
   width: 60px;
@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #106eea;
+  background:  #2d4d69;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -126,7 +126,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #106eea;
+  background:  #2d4d69;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -197,7 +197,7 @@ h6 {
 }
 
 #header .logo a span {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 #header .logo img {
@@ -263,7 +263,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #106eea;
+  background-color:  #2d4d69;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -280,7 +280,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 .navbar .dropdown ul {
@@ -314,7 +314,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 .navbar .dropdown:hover>ul {
@@ -423,7 +423,8 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #106eea;
+  color:  #2d4d69;
+  
 }
 
 .navbar-mobile .getstarted,
@@ -458,7 +459,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -500,7 +501,7 @@ h6 {
 }
 
 #hero h1 span {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 #hero h2 {
@@ -521,11 +522,11 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #106eea;
+  background:  #2d4d69;
 }
 
 #hero .btn-get-started:hover {
-  background: #247cf0;
+  background:  #2d4d69;
 }
 
 #hero .btn-watch-video {
@@ -539,7 +540,7 @@ h6 {
 }
 
 #hero .btn-watch-video i {
-  color: #106eea;
+  color:  #2d4d69;
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -547,11 +548,11 @@ h6 {
 }
 
 #hero .btn-watch-video:hover {
-  color: #106eea;
+  color:  #2d4d69;
 }
 
 #hero .btn-watch-video:hover i {
-  color: #3b8af2;
+  color:  #2d4d69;
 }
 
 @media (min-width: 1024px) {
@@ -612,7 +613,7 @@ section {
   padding: 8px 20px;
   margin: 0;
   background: #e7f1fd;
-  color: #106eea;
+  color:  #2d4d69;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
