@@ -93,9 +93,10 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4 class="title"><a href="">Missão</a></h4>
-                            <p class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
-                                de negocios atraves de soluções de consultoria personalizadas e
-                                eficazes, fornecendo servicos de alta qualidade e valor agregado.
+                            <p class="description">
+                                Nossa missão é ajudar os nossos parceiros a alcançar seus objectivos
+                                de negócios através de soluções de consultoria em investigação e treinamento,
+                                fornecendo serviços de alta qualidade e valor agregado.
                             </p>
                         </div>
                     </div>
@@ -104,8 +105,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4 class="title"><a href="">Visão</a></h4>
-                            <p class="description">Nossa visao e sermos reconhecidos como lideres no setor de
-                                consultoria e elaboração de projectos, entregando
+                            <p class="description">Nossa visão é sermos reconhecidos como lideres no setor de
+                                consultoria a nivel nacional e internacional, entregando
                                 serviços excepcionais e inovadoras que excedem as expectativas dos nossos clientes.
                             </p>
                         </div>
