@@ -107,7 +107,8 @@
                             <h4 class="title"><a href="">Visão</a></h4>
                             <p class="description">Nossa visão é sermos reconhecidos como lideres no setor de
                                 consultoria a nivel nacional e internacional, entregando
-                                serviços excepcionais e inovadoras que excedem as expectativas dos nossos clientes.
+                                serviços excepcionais que excedem as expectativas dos
+                                nossos parceiros tendo em conta a dinamica social, a legislacoes e aos direitos humanos.
                             </p>
                         </div>
                     </div>
