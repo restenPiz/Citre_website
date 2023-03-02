@@ -108,7 +108,7 @@
                             <p class="description">Nossa visão é sermos reconhecidos como lideres no setor de
                                 consultoria a nivel nacional e internacional, entregando
                                 serviços excepcionais que excedem as expectativas dos
-                                nossos parceiros tendo em conta a dinamica social, a legislacoes e aos direitos humanos.
+                                nossos parceiros.
                             </p>
                         </div>
                     </div>
@@ -116,10 +116,10 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4 class="title"><a href="">Inovacão</a></h4>
-                            <p class="description">Buscamos continuamente novas ideias e soluções inovadoras para
-                                melhorar nossos servicos e atender as
-                                necessidades em constante evolução dos nossos clientes.
+                            <h4 class="title"><a href="">Inovação</a></h4>
+                            <p class="description">Buscamos continuamente novas ideias e soluções para
+                                melhorar nossos serviços e exceder as expectativas dos nossos 
+                                parceiros.
                             </p>
                         </div>
                     </div>
@@ -128,8 +128,9 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4 class="title"><a href="">Integridade</a></h4>
-                            <p class="description">Mantemos os mais altos padrões de etica e integridade, agindo sempre
-                                com transparência, honestidade e respeito.</p>
+                            <p class="description">Mantemos os mais altos padrões de ética e integridade, agindo sempre
+                                com transparência, honestidade e respeito tendo em conta a dinâmica social, as legislações
+                                e aos direitos humanos..</p>
                         </div>
                     </div>
 
