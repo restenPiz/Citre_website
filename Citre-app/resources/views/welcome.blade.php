@@ -92,8 +92,8 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4 class="title"><a href="" style="color:white">Missão</a></h4>
-                            <p style="color:white" class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
+                            <h4 class="title"><a href="">Missão</a></h4>
+                            <p class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
                                 de negocios atraves de soluções de consultoria personalizadas e
                                 eficazes, fornecendo servicos de alta qualidade e valor agregado.
                             </p>
