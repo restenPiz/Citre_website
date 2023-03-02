@@ -739,13 +739,14 @@ section {
 }
 
 .featured-services .title a {
-  color: #111;
+  color: white;
 }
 
 .featured-services .description {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  color:white;
 }
 
 .featured-services .icon-box:hover .title a,
