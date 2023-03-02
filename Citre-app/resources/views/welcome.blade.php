@@ -38,7 +38,7 @@
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope d-flex align-items-center"><a
-                        href="mailto:contact@example.com">citre24@gmail.com</a></i>
+                        href="citre24@gmail.com">citre24@gmail.com</a></i>
                 <i class="bi bi-phone d-flex align-items-center ms-4"><span>+258 872612657</span></i>
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
@@ -73,7 +73,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container" data-aos="zoom-out" data-aos-delay="100">
-            <h1 style="color:white">Bem vindo a <span style="color: #497daa">CITRE</span></h1>
+            <h1 style="color:white">Bem vindo a <span style="color: #ffffff">CITRE</span></h1>
             <h2 style="color:white">Somos uma Consultoria de Investigação e Treinamento</h2>
             <div class="d-flex">
                 <a href="#about" style="background-color:#a9090e" class="btn-get-started scrollto">Iniciar</a>
@@ -148,7 +148,7 @@
 
                 <div class="row">
                     <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-                        <img src="img/a3.jpg" class="img-fluid" alt="" style="height:95vh">
+                        <img src="img/a3.jpg" class="img-fluid" alt="" style="height:80vh">
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center"
                         data-aos="fade-up" data-aos-delay="100">
