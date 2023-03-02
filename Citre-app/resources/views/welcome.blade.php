@@ -38,7 +38,7 @@
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope d-flex align-items-center"><a
-                        href="citre24@gmail.com">citre24@gmail.com</a></i>
+                    href="citre24@gmail.com">citre24@gmail.com</a></i>
                 <i class="bi bi-phone d-flex align-items-center ms-4"><span>+258 872612657</span></i>
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
@@ -73,7 +73,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container" data-aos="zoom-out" data-aos-delay="100">
-            <h1 style="color:white">Bem vindo a <span style="color: #ffffff">CITRE</span></h1>
+            <h1 style="color:white">Bem vindo a <span>CI</span><span style="color: #a9090e">TRE</span></h1>
             <h2 style="color:white">Somos uma Consultoria de Investigação e Treinamento</h2>
             <div class="d-flex">
                 <a href="#about" style="background-color:#a9090e" class="btn-get-started scrollto">Iniciar</a>
@@ -92,8 +92,8 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4 class="title"><a href="">Missão</a></h4>
-                            <p class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
+                            <h4 class="title"><a href="" style="color:white">Missão</a></h4>
+                            <p style="color:white" class="description">Nossa missão e ajudar os nossos clientes a alcancar seus objectivos
                                 de negocios atraves de soluções de consultoria personalizadas e
                                 eficazes, fornecendo servicos de alta qualidade e valor agregado.
                             </p>
