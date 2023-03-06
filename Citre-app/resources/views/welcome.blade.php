@@ -204,7 +204,7 @@
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h6><b>Elaboração de estudos</b></h6>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <p>Somos líderes no desenvolvimento de estudos em três dimensões...</p>
                         </div>
                     </div>
 
@@ -212,8 +212,8 @@
                         data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h6><b>Educação ou sensibilização comunitária</b></h6>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <h6><b>Elaboração de instrumentos institucionais</b></h6>
+                            <p>Somos experientes na elaboração de documentos de suporte institucionais...</p>
                         </div>
                     </div>
 
@@ -221,8 +221,8 @@
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h6><b>Estudos e Avaliação de impactos Ambiental</b></h6>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <h6><b>Elaboração de projectos de investimento e análise económica</b></h6>
+                            <p>Elaboramos Projectos de viabilidade económica para investimentos...</p>
                         </div>
                     </div>
 
@@ -230,8 +230,8 @@
                         data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <h6><b>Auditoria de Gestão de Projectos e Administrativo</b></h6>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <h6><b>Elaboração de projectos de intervenção social</b></h6>
+                            <p>Somos especializados na elaboração e acompanhamento na implementação de projectos...</p>
                         </div>
                     </div>
 
@@ -239,8 +239,8 @@
                         data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h6><b>Apoio legal e institucional</b></h6>
-                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                            <h6><b>Monitoria e avaliação de projectos</b></h6>
+                            <p>Realizamos actividades de monitorias de implementação de projectos e negócios através de sistemas...</p>
                         </div>
                     </div>
 
@@ -248,8 +248,8 @@
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-arch"></i></div>
-                            <h6><b>Elaboração de projectos de intervenção social</b></h6>
-                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                            <h6><b>Treinamentos/formação e em diversas áreas sociais</b></h6>
+                            <p>Somos líderes em facilitação de formações, capacitações e de debates através de...</p>
                         </div>
                     </div>
 

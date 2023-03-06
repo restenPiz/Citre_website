@@ -928,9 +928,9 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #f1f6fe;
+  background: #a9090e;
   border-radius: 4px;
-  border: 1px solid #deebfd;
+  border: 1px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -939,7 +939,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color:  #2d4d69;
+  color:  #fff;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -968,11 +968,12 @@ section {
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover .icon i {
-  color:  #2d4d69;
+  color:  #2d4d62;
 }
 
 .services .icon-box:hover .icon {
-  border-color:  #2d4d69;
+  border-color:  #fff;
+  background-color: #f1f6fe;
 }
 
 /*--------------------------------------------------------------
