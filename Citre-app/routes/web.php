@@ -22,4 +22,4 @@ Route::get('/', function () {
 Route::post('sendEmail', [systemController::class, 'sendEmail'])->name('sendEmail');
 
 //Inicio das rotas do services
-Route::post('firstService', [serviceController::class, 'firstService'])->name('firstService');
+Route::get('firstService', [serviceController::class, 'firstService'])->name('firstService');
