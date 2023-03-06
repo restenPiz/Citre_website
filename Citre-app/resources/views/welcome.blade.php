@@ -93,10 +93,13 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4 class="title"><a href="">Missão</a></h4>
-                            <p class="description">
-                                Nossa missão é ajudar os nossos parceiros a alcançar seus objectivos
-                                de negócios através de soluções de consultoria em investigação e treinamento,
-                                fornecendo serviços de alta qualidade e valor agregado.
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                                Nossa missão é ajudar os nossos
+                                parceiros a alcançar seus objectivos
+                                 de negócios através de soluções
+                                 de consultoria em investigação
+                                 e treinamento,fornecendo serviços
+                                 de alta qualidade e valor agregado.
                             </p>
                         </div>
                     </div>
@@ -105,7 +108,9 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-file"></i></div>
                             <h4 class="title"><a href="">Visão</a></h4>
-                            <p class="description">Nossa visão é sermos reconhecidos como lideres no setor de
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                                Nossa visão é sermos reconhecidos
+                                como lideres no setor de
                                 consultoria a nivel nacional e internacional, entregando
                                 serviços excepcionais que excedem as expectativas dos
                                 nossos parceiros.
@@ -117,7 +122,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
                             <h4 class="title"><a href="">Inovação</a></h4>
-                            <p class="description">Buscamos continuamente novas ideias e soluções para
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                                Buscamos continuamente novas ideias e soluções para
                                 melhorar nossos serviços e exceder as expectativas dos nossos 
                                 parceiros.
                             </p>
@@ -128,7 +134,8 @@
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-world"></i></div>
                             <h4 class="title"><a href="">Integridade</a></h4>
-                            <p class="description">Mantemos os mais altos padrões de ética e integridade, agindo sempre
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                                Mantemos os mais altos padrões de ética e integridade, agindo sempre
                                 com transparência, honestidade e respeito tendo em conta a dinâmica social, as legislações
                                 e aos direitos humanos.</p>
                         </div>
