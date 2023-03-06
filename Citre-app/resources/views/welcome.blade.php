@@ -210,7 +210,7 @@
                         data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h6><a href=""><b>Elaboração de estudos</b></a></h6>
+                            <h6><a href="{{route('firstService')}}"><b>Elaboração de estudos</b></a></h6>
                             <p>Somos líderes no desenvolvimento de estudos em três dimensões...</p>
                         </div>
                     </div>
