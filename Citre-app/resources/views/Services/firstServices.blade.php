@@ -59,10 +59,10 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto" href="/">Inicio</a></li>
-                    <li><a class="nav-link scrollto" href="#about">Sobre</a></li>
-                    <li><a class="nav-link scrollto active" href="#services">Serviços</a></li>
-                    <li><a class="nav-link scrollto" href="#portfolio">Galeria</a></li>
-                    <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
+                    <li><a class="nav-link scrollto" href="#">Sobre</a></li>
+                    <li><a class="nav-link scrollto active" href="#">Serviços</a></li>
+                    <li><a class="nav-link scrollto" href="#">Galeria</a></li>
+                    <li><a class="nav-link scrollto" href="#">Contacto</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -95,15 +95,15 @@
                 <div class="col-lg-12">
                     <div class="portfolio-info">
                         <h3>Elaboração de estudos</h3>
-                        <p>Somos líderes no desenvolvimento de estudos em três dimensões, sendo: </p>
+                        <p style="text-align: justify">Somos líderes no desenvolvimento de estudos em três dimensões, sendo: </p>
                         <ul>
-                            <li><strong>Estudos de base</strong>  que consistem na compreensão 
+                            <li style="text-align: justify"><strong>Estudos de base</strong>  que consistem na compreensão 
                                 inicial de um contexto que carece de elementos para implementação de 
                                 projetos sociais e actividades comerciais. </li>
-                            <li><strong>Estudo intermédio</strong> consiste no seguimento de resultados e recomendações
+                            <li style="text-align: justify"><strong>Estudo intermédio</strong> consiste no seguimento de resultados e recomendações
                                  de forma avaliativa sobre as tendências de implementação, produzindo relatórios e recomendações sobre nível
                                  de desempenho intermédio em termos de eficácia, eficiência, impacto e níveis de sustentabilidade.</li>
-                            <li><strong>Estudos finais</strong> Que consistem numa avaliação definitiva dos resultados de desempenho de actividades desenvolvidas
+                            <li style="text-align: justify"><strong>Estudos finais</strong> Que consistem numa avaliação definitiva dos resultados de desempenho de actividades desenvolvidas
                                  por organizações e empresas no âmbito da sua de implementação de acções sociais e comerciais num determinado tempo, 
                                  produzindo relatórios de qualidade, elaborando recomendações para a melhoria
                                  numa próxima atribuição similar, em termos institucionais e excepcionalmente acompanhamento para melhoria através de plano de acção.  </li>
