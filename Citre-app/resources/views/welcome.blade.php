@@ -414,11 +414,11 @@
                             </li>
 
                             <li>
-                                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
+                                <div data-bs-toggle="collapse" class="collapsed question" href="#faq11">
                                     Qual é missão da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
-                                <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+                                <div id="faq11" class="collapse" data-bs-parent=".faq-list">
                                     <p>
                                         Prestar serviços de qualidade baseados no desenvolvimento socioeconómico de Moçambique
                                     </p>
