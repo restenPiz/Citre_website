@@ -8,6 +8,6 @@ class serviceController extends Controller
 {
     public function firstService()
     {
-        return view('services.firstService');
+        return view('services.firstServices');
     }
 }
