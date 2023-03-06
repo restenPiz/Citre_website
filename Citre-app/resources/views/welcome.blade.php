@@ -158,7 +158,9 @@
                         <h3>Somos uma consultoria orientada pelos valores de Ética, Qualidade e Inovação.</h3>
                         <p class="fst-italic">
                             A empresa actua no ramo de consultoria a nivel nacional e com sua sede na provincia de
-                            sofala Cidade da Beira, Bairro de Matacuane. A <b>CITRE, E.I,</b> vem trabalhando na
+                            sofala Cidade da Beira, Bairro de Matacuane e com representações nacional (província de Cabo-Delgado, 
+                            cidade de Pemba, Bairro de Natite, Q16 e na cidade de Maputo, Bairro do Alto-Mãe) e internacional
+                            (Portugal - Cidade de Porto; Brasil - Cidade da Bahia e Argentina - Buenos Aires, Santa-Sé). A <b>CITRE, E.I,</b> vem trabalhando na
                             assessoria mutua para:
                         </p>
                         <ul>
