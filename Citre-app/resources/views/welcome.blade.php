@@ -130,7 +130,7 @@
                             <h4 class="title"><a href="">Integridade</a></h4>
                             <p class="description">Mantemos os mais altos padrões de ética e integridade, agindo sempre
                                 com transparência, honestidade e respeito tendo em conta a dinâmica social, as legislações
-                                e aos direitos humanos..</p>
+                                e aos direitos humanos.</p>
                         </div>
                     </div>
 
@@ -396,7 +396,7 @@
 
                             <li>
                                 <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
-                                    Qual e o ramo de actuação da empresa? <i
+                                    Qual é o ramo de actuação da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
@@ -407,8 +407,20 @@
                             </li>
 
                             <li>
+                                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">
+                                    Qual é missão da empresa? <i
+                                        class="bi bi-chevron-down icon-show"></i><i
+                                        class="bi bi-chevron-up icon-close"></i></div>
+                                <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+                                    <p>
+                                        Prestar serviços de qualidade baseados no desenvolvimento socioeconómico de Moçambique
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li>
                                 <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">
-                                    Qual e area geografica de actuação da empresa? <i
+                                    Qual é area geografica de actuação da empresa? <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
