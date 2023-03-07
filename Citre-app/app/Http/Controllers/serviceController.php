@@ -8,26 +8,26 @@ class serviceController extends Controller
 {
     public function firstService()
     {
-        return view('services.firstServices');
+        return view('Services.firstServices');
     }
     public function secondService()
     {
-        return view('services.secondServices');
+        return view('Services.secondServices');
     }
     public function thirdService()
     {
-        return view('services.thirdServices');
+        return view('Services.thirdServices');
     }
     public function fourthService()
     {
-        return view('services.fourthServices');
+        return view('Services.fourthServices');
     }
     public function fifthService()
     {
-        return view('services.fifthServices');
+        return view('Services.fifthServices');
     }
     public function sixthService()
     {
-        return view('services.sixthServices');
+        return view('Services.sixthServices');
     }
 }

@@ -92,14 +92,14 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4 class="title"><a href="">Missão</a></h4>
-                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                            <h2 class="title"><a href="">Missão</a></h2>
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;"><strong>
                                 Nossa missão é ajudar os nossos
                                 parceiros a alcançar seus objectivos
                                  de negócios através de soluções
                                  de consultoria em investigação
                                  e treinamento,fornecendo serviços
-                                 de alta qualidade e valor agregado.
+                                 de alta qualidade e valor agregado.</strong>
                             </p>
                         </div>
                     </div>
@@ -107,13 +107,13 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4 class="title"><a href="">Visão</a></h4>
-                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                            <h2 class="title"><a href="">Visão</a></h2>
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;"><strong>
                                 Nossa visão é sermos reconhecidos
                                 como lideres no setor de
                                 consultoria a nivel nacional e internacional, entregando
                                 serviços excepcionais que excedem as expectativas dos
-                                nossos parceiros.
+                                nossos parceiros.</strong>
                             </p>
                         </div>
                     </div>
@@ -121,11 +121,11 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4 class="title"><a href="">Inovação</a></h4>
-                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                            <h2 class="title"><a href="">Inovação</a></h2>
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;"><strong>
                                 Buscamos continuamente novas ideias e soluções para
                                 melhorar nossos serviços e exceder as expectativas dos nossos 
-                                parceiros.
+                                parceiros.</strong>
                             </p>
                         </div>
                     </div>
@@ -133,11 +133,12 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4 class="title"><a href="">Integridade</a></h4>
-                            <p class="description" style="text-align: justify;letter-spacing: -1px;">
+                            <h2 class="title"><a href="">Integridade</a></h2>
+                            <p class="description" style="text-align: justify;letter-spacing: -1px;"><strong>
                                 Mantemos os mais altos padrões de ética e integridade, agindo sempre
                                 com transparência, honestidade e respeito tendo em conta a dinâmica social, as legislações
-                                e aos direitos humanos.</p>
+                                e aos direitos humanos.
+                            </strong></p>
                         </div>
                     </div>
 
